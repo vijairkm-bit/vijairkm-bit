@@ -157,7 +157,7 @@ Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, 
 
 <div align="center">
 
-<a href="https://https://www.linkedin.com/in/vijaikumar-rk-aipoweredqaarchitect/" target="_blank">
+<a href="https://www.linkedin.com/in/vijaikumar-rk-aipoweredqaarchitect/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
