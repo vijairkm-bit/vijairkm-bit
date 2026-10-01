@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vijai Kumar K</h1>
 
 <h2 align="center">
-Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, LLMs.
+Data Analyst • Machine Learning Engineer • Generative AI Developer | <br>💎 Python, SQL, Pandas, LLMs.
 </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijairkm-bit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vijairkm-bit&label=Profile%0Views&color=0e75b6&style=flat" alt="Profile Views"/>
   <br>
 
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
@@ -43,7 +43,7 @@ Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, 
 - 💡 Healthcare AI & Innovation:**Passionate about transforming raw healthcare data into actionable insights by applying Generative AI, Machine Learning, and advanced analytics to drive population health, improve healthcare outcomes, and create meaningful impact on society.**
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="top">
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320">
 
@@ -121,7 +121,7 @@ Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, 
 <br><br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450"/>
 </div>
 </p>
 
