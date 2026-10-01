@@ -38,8 +38,8 @@ Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, 
 - 🧠 Practicing **SQL on HackerRank** to strengthen problem-solving skills
 - 🤖 Exploring **Artificial Intelligence & Business Intelligence**
 - 🚀 Passionate about **Data Analytics, Front-End Development & Vibe Coding**
-- 📫 Reach me at **vijai.rkm@gmail.com**
--  ⚡ Fun Fact: I love turning complex healthcare data into actionable insights!
+- 📫 If you’re solving complex product challenges with AI, I’d be happy to connect and explore opportunities to collaborate, reach me at **vijai.rkm@gmail.com**
+- ⚡ Fun Fact: I love turning complex healthcare data into actionable insights!
 - 💡 Healthcare AI & Innovation:**Passionate about transforming raw healthcare data into actionable insights by applying Generative AI, Machine Learning, and advanced analytics to drive population health, improve healthcare outcomes, and create meaningful impact on society.**
 </td>
 
