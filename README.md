@@ -22,7 +22,7 @@ Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, 
 <td width="60%" valign="top">
 
 ## 👨‍💻 About Me
-**Custom Software Development Engineer**
+**Custom Software Development Engineer** - Packaged App Development
 - 🎓 **Results-driven AI-focused Principal Engineer** with a **B.E.** in Electronics & Communication Engineering (ECE), specializing in **AI-driven Quality Engineering, automation**, and **scalable** software solutions
 - 🏥 **20+ years** of Healthcare IT experience across **EHR, Healthcare Interoperability, Clinical Data, and Digital Health Platforms**
 - 🔗 Experienced in **HL7 v2.x, FHIR R4, C-CDA/CCDA, SMART on FHIR, and Healthcare APIs**
